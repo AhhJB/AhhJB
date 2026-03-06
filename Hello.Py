@@ -18,8 +18,5 @@ elif serious_answer == "No":
         print ("Why so serious?")
     elif not_serious_answer == "No":
         print ("Bruh...")
-
-    
-        
         
 else: print ("Why would you lie to me...")
